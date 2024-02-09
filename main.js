@@ -642,7 +642,7 @@ $(function () {
             }
         }
 
-        // supprise happy new year!
+        // supprise HAPPY NEW YEAR!
         if (supprise && onHold == 10) {
             supprise = false;
             setTimeout(initText, 3000);
